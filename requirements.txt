@@ -1,0 +1,5 @@
+streamlit>=1.40
+pandas>=2.0
+extract-msg>=0.50
+pywin32>=306; platform_system == "Windows"
+openpyxl>=3.1
